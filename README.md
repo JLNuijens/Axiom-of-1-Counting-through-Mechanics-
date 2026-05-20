@@ -1,3 +1,6 @@
+These papers are not a work of philosophy, nor is it a theoretical interpretation. It is a literal, procedural record of a physical unit counting itself inward via the simplest possible partition: halving. The mathematics presented herein is mechanical, fully determined by the first count, and verified by execution.
+
+
 # Axiom of 1 — Inverse Mechanical Counting and Mathematics
 
 **A foundational framework that begins with one single physical unit and reads all of mathematics inward through generative counting.**
