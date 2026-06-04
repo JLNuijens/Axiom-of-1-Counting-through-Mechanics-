@@ -31,6 +31,3 @@ Counting itself is the generative engine. Starting strictly from the axiom of 1,
 
 ### Status
 Ongoing foundational project (2026–). All papers are self-contained and built exclusively from the axiom of 1 and the √2 master mechanic. 
-
-ormal tone, or any specific additions (e.g. “How to Read the Papers” section)? Just say the word and I’ll revise it.
-```
