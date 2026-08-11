@@ -3,6 +3,8 @@ These papers are not a work of philosophy, nor is it a theoretical interpretatio
 
 # Axiom of 1 — Inverse Mechanical Counting and Mathematics
 
+Full app interactive demo: https://axiom-of-1-to-the-singularity-of-1-online-demo-5rminz86c.vercel.app/
+
 **A foundational framework that begins with one single physical unit and reads all of mathematics inward through generative counting.**
 
 ### Core Idea
